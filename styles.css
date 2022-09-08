@@ -85,7 +85,7 @@ nav{
     border-radius: 5px;
 }
 .insta{
-    background-image: url(./src/assets/Instagram\ Icon.png);
+    background-image: url(./src/assets/Instagram_Icon.png);
     background-position: center;
     background-size: cover;
     align-items: center;
@@ -141,13 +141,13 @@ nav{
     margin-right: 6px;
 }
 .twitter{
-    background-image: url(./src/assets/Twitter\ Icon.png);
+    background-image: url(./src/assets/Twitter_Icon.png);
     background-position: center;
     background-size: cover;
     align-items: center;
 }
 .github{
-    background-image: url(./src/assets/GitHub\ Icon.png);
+    background-image: url(./src/assets/GitHub_Icon.png);
     background-position: center;
     background-size: cover;
     align-items: center;
